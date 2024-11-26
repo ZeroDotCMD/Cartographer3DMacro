@@ -4,17 +4,18 @@
 
 This macro is designed for easy calibration of the Cartographer3D probes, as well as for simple control over the scan models. It eliminates the need to look up commands in a wiki for probe calibration, streamlining the process. By consolidating control of the probes into a single macro, it helps simplify the overall use of the Cartographer3D system.
 This macro was originally designed for use with the SimpleAF firmware but can also be used with standard Klipper.
+<br><br><br>
 
 # Install
 
 Copy the cartographer3d_calibrate.cfg into your printer's config, then add include in your printer.cfg.
 
 [cartographer3d_calibrate.cfg](https://github.com/ZeroDotCMD/Cartographer3DMacro/blob/main/cfg/cartographer3d_calibrate.cfg)
-
+<br>
 `[include calibrate_cartographer.cfg]`
+<br><br><br>
 
-
-#Video
+# Video
 
 
 
