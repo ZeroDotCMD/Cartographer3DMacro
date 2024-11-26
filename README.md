@@ -9,7 +9,7 @@ This macro was originally designed for use with the SimpleAF firmware but can al
 
 Copy the calibrate_cartographer.cfg into your printer's config, then add include in your printer.cfg.
 
-[Download the Cartographer3D Macro](/cfg/cartographer3d_calibrate.cfg)
+[Download the Cartographer3D Macro](https://github.com/ZeroDotCMD/Cartographer3DMacro/blob/main/cfg/cartographer3d_calibrate.cfg)
 
 `[include calibrate_cartographer.cfg]`
 
