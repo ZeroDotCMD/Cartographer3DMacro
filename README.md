@@ -9,6 +9,8 @@ This macro was originally designed for use with the SimpleAF firmware but can al
 
 Copy the calibrate_cartographer.cfg into your printer's config, then add include in your printer.cfg.
 
+[Link Text](/cfg/calibrate_cartographer.cfg)
+
 `[include calibrate_cartographer.cfg]`
 
 
