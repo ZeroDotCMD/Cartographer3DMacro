@@ -12,7 +12,7 @@ Copy the cartographer3d_calibrate.cfg into your printer's config, then add inclu
 
 [cartographer3d_calibrate.cfg](https://github.com/ZeroDotCMD/Cartographer3DMacro/blob/main/cfg/cartographer3d_calibrate.cfg)
 <br><br>
-`[include calibrate_cartographer.cfg]`
+`[include cartographer3d_calibrate.cfg]`
 <br><br><br>
 
 # Video
