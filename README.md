@@ -2,10 +2,7 @@
 This Macro is designed for easy calibration and control over the scan models with the Cartographer3D probes.
 
 
-# Screen Shots
-![Screenshot 2024-11-25 205604](https://github.com/user-attachments/assets/bad887db-8222-4d18-b2a5-b965d01ae7d6)
-![Screenshot 2024-11-25 205632](https://github.com/user-attachments/assets/120af9d2-bc76-42fb-9918-4960ac9c23a8)
-
+![Pastel Aesthetic Minimalist Visual Photo Gallery Instagram Post (1920 x 1080 px)](https://github.com/user-attachments/assets/5223e6f6-a3bf-425d-ac49-c8928e46ae95)
 
 
 #Video
